@@ -1,7 +1,10 @@
 #!/usr/bin/env python3
+import os
 import socket
 import sys
 import time
+
+os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
 def scan_port(target_ip, port):
 
