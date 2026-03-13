@@ -19,11 +19,7 @@ A simple Python port scanner that can check for open ports on a target IP addres
 
 1. Clone or download this repository
 2. Open a terminal in the project directory
-3. Run "python port_scanner.py (target_ip)"
-
-Example:
-- python port_scanner.py 192.168.1.1
-
+3. Enter the target IP
 
 ## What it does
 
